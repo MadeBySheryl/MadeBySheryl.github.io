@@ -304,7 +304,7 @@ width: 100%;
 
 
 
-.v109_20 {
+.line17 {
   width: 100%;
   background: url("../images/v109_20.png");
   opacity: 1;
@@ -584,7 +584,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v109_93 {
+.read {
   width: 30px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -596,7 +596,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v109_94 {
+.edit {
   width: 22px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -608,7 +608,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v109_95 {
+.view-history {
   width: 72px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -620,7 +620,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v109_96 {
+.add-topic {
   width: 58px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -642,7 +642,7 @@ width: 100%;
   left: 977px;
   overflow: hidden;
 }
-.v109_98 {
+.line09 {
   width: 185px;
   height: 107px;
   background: rgba(246,234,191,1);
@@ -652,7 +652,7 @@ width: 100%;
   left: 996px;
   overflow: hidden;
 }
-.v109_99 {
+.line10 {
   width: 185px;
   height: 107px;
   background: rgba(246,234,191,1);
@@ -662,7 +662,7 @@ width: 100%;
   left: 1206px;
   overflow: hidden;
 }
-.v109_100 {
+.edit01 {
   width: 136px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -674,7 +674,7 @@ width: 100%;
   opacity: 1;
   text-align: center;
 }
-.v109_101 {
+.edit02 {
   width: 136px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -686,7 +686,7 @@ width: 100%;
   opacity: 1;
   text-align: center;
 }
-.v109_102 {
+.line11 {
   height: 100px;
   background: url("../images/v109_102.png");
   opacity: 1;
@@ -834,7 +834,7 @@ width: 100%;
   opacity: 1;
   text-align: center;
 }
-.v109_110 {
+.find-sources {
   width: 386px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -845,7 +845,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v109_111 {
+.archives-index {
   width: 401px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -856,7 +856,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v109_112 {
+.line12 {
   width: 403px;
   height: 122px;
   background: rgba(246,234,191,1);
@@ -866,7 +866,7 @@ width: 100%;
   left: 996px;
   overflow: hidden;
 }
-.v110_155 {
+.line13 {
   width: 403px;
   height: 90px;
   background: rgba(246,234,191,1);
@@ -876,7 +876,7 @@ width: 100%;
   left: 996px;
   overflow: hidden;
 }
-.v110_162 {
+.line14 {
   width: 403px;
   height: 147px;
   background: rgba(246,234,191,1);
@@ -886,7 +886,7 @@ width: 100%;
   left: 996px;
   overflow: hidden;
 }
-.v110_154 {
+.line15 {
   width: 72px;
   height: 70px;
   background: url("../images/v110_154.png");
@@ -899,7 +899,7 @@ width: 100%;
   left: 1009px;
   overflow: hidden;
 }
-.v109_115 {
+.info-1 {
   width: 291px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -912,7 +912,7 @@ width: 100%;
   text-align: left;
   line-height: 1.5;
 }
-.v110_163 {
+.info-2 {
   width: 378px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -925,7 +925,7 @@ width: 100%;
   text-align: left;
   line-height: 1.6;
 }
-.v109_124 {
+.article-milestones {
   width: 150px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -937,7 +937,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v110_156 {
+.date {
   width: 27px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -949,7 +949,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v110_157 {
+.process {
   width: 46px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -961,7 +961,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v110_158 {
+.result {
   width: 36px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -973,7 +973,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v110_159 {
+.date1 {
   width: 90px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -985,7 +985,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v110_160 {
+.nominee {
   width: 125px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -997,7 +997,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v110_161 {
+.non-listed {
   width: 55px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1009,7 +1009,7 @@ width: 100%;
   opacity: 1;
   text-align: left;
 }
-.v110_164 {
+.line16 {
   width: 683px;
   height: 33px;
   background: rgba(246,234,191,1);
@@ -1019,7 +1019,7 @@ width: 100%;
   left: 274px;
   overflow: hidden;
 }
-.v110_165 {
+.edit-req {
   width: 622px;
   color: rgba(0,0,0,1);
   position: absolute;

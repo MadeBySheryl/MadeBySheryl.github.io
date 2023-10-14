@@ -6,10 +6,6 @@ body {
 }
 
 
-
-
-
-
 .contentsection {
   width: 235px;
   height: 710px;
@@ -72,9 +68,6 @@ body {
   opacity: 1;
   text-align: left;
 }
-
-
-
 
 
 .body {
@@ -285,7 +278,7 @@ p1 {
   text-align: left;
   line-height: 1.5;
 }
-.v74_19 {
+.div1 {
   width: 288px;
   height: 879px;
   background: rgba(236,246,247,1);
@@ -334,7 +327,8 @@ p1 {
   left: 810px;
   overflow: hidden;
 }
-.v74_23 {
+
+.background-information {
   width: 140px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -359,7 +353,7 @@ p1 {
   text-align: left;
   line-height: 1.5;
 }
-.v74_25 {
+.background-information-text {
   width: 145px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -595,7 +589,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_43 {
+.informationtext {
   width: 290px;
   color: url("../images/v74_43.png");
   position: absolute;
@@ -621,7 +615,7 @@ p1 {
   text-align: left;
   line-height: 1.5;
 }
-.v74_45 {
+.talk-content {
   width: 290px;
   color: url("../images/v74_45.png");
   position: absolute;
@@ -634,7 +628,7 @@ p1 {
   text-align: left;
   line-height: 1.5;
 }
-.v74_46 {
+.talk-content2 {
   width: 290px;
   color: url("../images/v74_46.png");
   position: absolute;
@@ -647,7 +641,7 @@ p1 {
   text-align: left;
   line-height: 1.5;
 }
-.v74_47 {
+.history-content {
   width: 479px;
   font-family: Inter;
   color: url("../images/v74_47.png");
@@ -684,7 +678,7 @@ p1 {
   left: 818px;
   overflow: hidden;
 }
-.v74_50 {
+.title2 {
   width: 231px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -696,7 +690,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_51 {
+.title2text {
   width: 231px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -708,7 +702,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_52 {
+.title3 {
   width: 231px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -720,7 +714,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_53 {
+.title4 {
   width: 231px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -732,7 +726,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_54 {
+.title5 {
   width: 231px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -796,7 +790,8 @@ p1 {
   left: 816px;
   overflow: hidden;
 }
-.v74_59 {
+
+.influence-section {
   width: 231px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -808,7 +803,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_60 {
+.content2 {
   width: 479px;
   color: url("../images/v74_60.png");
   position: absolute;
@@ -821,7 +816,7 @@ p1 {
   text-align: left;
   line-height: 1.5;
 }
-.v74_61 {
+.bandmembers {
   width: 128px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -833,7 +828,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_62 {
+.currentmembers {
   width: 103px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -846,7 +841,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_63 {
+.timeline{
   width: 215px;
   color: url("../images/v74_63.png");
   position: absolute;
@@ -858,7 +853,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_64 {
+.formermembers {
   width: 99px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -871,7 +866,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_65 {
+.timeline2 {
   width: 215px;
   color: url("../images/v74_65.png");
   position: absolute;
@@ -883,7 +878,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_66 {
+.touring {
   width: 220px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -896,7 +891,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_67 {
+.names1 {
   width: 215px;
   color: url("../images/v74_67.png");
   position: absolute;
@@ -908,7 +903,7 @@ p1 {
   opacity: 1;
   text-align: left;
 }
-.v74_68 {
+.As2011 {
   width: 231px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -959,7 +954,7 @@ p1 {
   text-align: left;
   line-height: 1.5;
 }
-.v74_72 {
+.timeline {
   width: 50px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -994,7 +989,7 @@ p1 {
   left: 414px;
   border: 1px solid rgba(0,0,0,1);
 }
-.v74_75 {
+.discography {
   width: 86px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1015,7 +1010,7 @@ top: 8192px;
     left: 406px;
   border: 1px solid rgba(0,0,0,1);
 }
-.v74_77 {
+.accolades {
   width: 72px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -1088,7 +1083,7 @@ top: 8192px;
   opacity: 1;
   text-align: left;
 }
-.v74_83 {
+.discography-list {
   width: 461px;
   color: url("../images/v74_83.png");
   position: absolute;
